@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<playlist>
+	<item>
+		<filename>example.mp3</filename>
+		<artist>Artist One</artist>
+		<title>Title One</title>
+		<comments>https://wimpy.foxycart.com/cart?name=Cool%20Example&price=10&color=red</comments>
+		<visual>coverart.jpg</visual>
+	</item>
+	<item>
+		<filename>example.mp3</filename>
+		<artist>Artist Two</artist>
+		<title>Title Two</title>
+		<comments>http://www.wimpyplayer.net</comments>
+		<visual>coverart.jpg</visual>
+	</item>
+	<item>
+		<filename>example.mp3</filename>
+		<artist>Artist Three</artist>
+		<title>Title Three</title>
+		<comments>http://www.wimpyplayer.net</comments>
+		<visual>coverart.jpg</visual>
+	</item>
+	<item>
+		<filename>example.mp3</filename>
+		<artist>Artist Four</artist>
+		<title>Title Four</title>
+		<comments>http://www.wimpyplayer.net</comments>
+		<visual>coverart.jpg</visual>
+	</item>
+	<item>
+		<filename>example.mp3</filename>
+		<artist>Artist Five</artist>
+		<title>Title Five</title>
+		<comments>http://www.wimpyplayer.net</comments>
+		<visual>coverart.jpg</visual>
+	</item>
+	<item>
+		<filename>example.mp3</filename>
+		<artist>Artist Six</artist>
+		<title>Title Six</title>
+		<comments>http://www.wimpyplayer.net</comments>
+		<visual>coverart.jpg</visual>
+	</item>
+</playlist>
