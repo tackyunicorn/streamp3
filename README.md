@@ -1,5 +1,8 @@
 # streamp3
 An SQL+HTML/PHP/CSS based mp3 player [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/tackyunicorn/streamp3/issues)
+<p align="center">
+  <img src="sample.PNG"/>
+</p> 
 
 ## Database Setup
 This project uses MySQL as a backend for storing information of users and the music files  
